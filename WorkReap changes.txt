@@ -1,3 +1,5 @@
 21.10.2021 Started the job of customization og the theme
 09:56 Evaluating the project
 16:18 The theme is installed and child theme is activated
+16:31 After the theme was installed and tested no issues about compatability or errors were seen during the testing.
+16:32 Task 1.1 has started
