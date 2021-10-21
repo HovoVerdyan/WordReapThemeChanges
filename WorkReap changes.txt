@@ -4,4 +4,5 @@
 16:31 After the theme was installed and tested no issues about compatability or errors were seen during the testing.
 16:32 Task 1.1 has started
 17:01 Finished reading the file stracture created by the developers of theme.
-17:43 Task 1.1 has been completed successfilly and after has been tested on all devices
+17:43 Task 1.1 has been completed successfilly and after has been tested on all devices, after cjecking that CSS class exists nowhere
+  other the second element was removed using :nth-child method
