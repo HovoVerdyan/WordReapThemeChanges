@@ -10,3 +10,5 @@
 21:22 The 1.3 task was successsfully completed and I succededd to get English level though sending a query to database not adding any other files to the child theme
 21:56 I am leaving 1.4, 1.5 tasks for tomorrow because currently I cn't manage to find any file type to see how it shows in front-end in the services
 21:57 With 1.6 everything is clear no roblems concerning responsiveness
+23:16 1.7 Task has been completed successfully on devices of wirth 768px the review section under the main area is no longer displayed but it moves down under
+  the main info as it is required by the document. I am finishing the job and will continue tomorrow morning, everything goes right by the plan.
