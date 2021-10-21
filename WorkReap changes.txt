@@ -7,3 +7,4 @@
 17:43 Task 1.1 has been completed successfilly and after has been tested on all devices, after cjecking that CSS class exists nowhere
   other the second element was removed using :nth-child method
 18:06 Task 1.2 has been completed. The code has been changed in single-micro-services.php file
+21:22 The 1.3 task was successsfully completed and I succededd to get English level though sending a query to database not adding any other files to the child theme
