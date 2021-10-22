@@ -12,3 +12,9 @@
 21:57 With 1.6 everything is clear no roblems concerning responsiveness
 23:16 1.7 Task has been completed successfully on devices of wirth 768px the review section under the main area is no longer displayed but it moves down under
   the main info as it is required by the document. I am finishing the job and will continue tomorrow morning, everything goes right by the plan.
+22.10.2021  Task was comp;eted by changing the original css. To to this we add following code in additional CSS(WordPress dashboard -> Appearance -> Customize -> Additional CSS)
+  .wt-servicesslider figure img {
+	  min-height: unset;  //We remove min-hright so as it wonn't cause problems whem changing sizes
+    object-fit: contain;  //We put object fit contain so as it will contain the image in its full size
+    object-position: center; //And object position shall be in center so as it sits tight ly and neatly
+  }
