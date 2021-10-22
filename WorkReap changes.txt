@@ -31,7 +31,7 @@
 		display: none;
 	}
     }
-22.10.2021  Task was comp;eted by changing the original css. To to this we add following code in additional CSS(WordPress dashboard -> Appearance -> Customize -> Additional CSS)
+22.10.2021  Task 1.8 was comp;eted by changing the original css. To to this we add following code in additional CSS(WordPress dashboard -> Appearance -> Customize -> Additional CSS)
   .wt-servicesslider figure img {
 	  min-height: unset;  //We remove min-hright so as it wonn't cause problems whem changing sizes
     object-fit: contain;  //We put object fit contain so as it will contain the image in its full size
