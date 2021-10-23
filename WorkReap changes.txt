@@ -37,3 +37,31 @@
     object-fit: contain;  //We put object fit contain so as it will contain the image in its full size
     object-position: center; //And object position shall be in center so as it sits tight ly and neatly
   }
+  Task 1.4 The steps for solving the task:
+    Step 1: We go the parent them files and cooy file to the root->directory->project-proposal.php, then paste it in the root directory of
+     the child theme in the same directory folder
+    Step 2: In the file mentioned above of the child theme we go to line 382 where inside script tags therer is span with {{data-name}} to which we add class "new-text"
+    Step 3: Then we go to additional css and add following peace of code there:
+ @media (max-width: 768px){
+
+  .new-text  {
+	display:inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 12ch;
+  } 
+
+}
+
+@media (min-width: 769px){
+
+.new-text  {
+  display:inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 37ch;
+  } 
+}
+	   
