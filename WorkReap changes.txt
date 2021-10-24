@@ -65,3 +65,12 @@
   } 
 }
 	   
+24.10.21 Task 2.1 haas been solved by doing the following steps:
+   Step 1: We go the files of parent them to root->directory->templates->front-end and copy file with the name ajax-hooks.php
+   Step 2: We need our child theme to read the file with the same location from child theme first instead of parent theme, so we 
+     go to functions PHP and past the folowing code on the top of the file(in our case on line 12): require get_stylesheet_directory() . '/directory/front-end/ajax-hooks.php';
+   Step 3: After the child theme access the file we go the ajax-hook.php we just copied and go to line 5924 andpaste following code in $required = array():
+     'response_time'     => esc_html__('Responce time is required', 'workreap'),	
+     'english_level'     => esc_html__('English level is required', 'workreap'),
+   Task 2.1-2.3 The task has been solve by the following steps:
+     Step 1: 
